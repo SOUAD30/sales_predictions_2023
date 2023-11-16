@@ -1,4 +1,4 @@
-# sales_predictions_2023
+# Sales_predictions_2023
 # Overview
 ### This project focuses on the finalization of a sales prediction model to assist retailers in understanding the key factors influencing sales for their products and outlets. The primary goal is to provide actionable insights based on the dataset.
 

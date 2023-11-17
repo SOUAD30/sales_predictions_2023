@@ -1,7 +1,7 @@
 # Sales_predictions_2023
 # Overview
-### This project focuses on the finalization of a sales prediction model to assist retailers in understanding the key factors influencing sales for their products and outlets. The primary goal is to provide actionable insights based on the dataset.
-
+### The goal of this code is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
+# Data Understanding
 # Modeling
 ## Linear Regression Model
 ### Build a Linear Regression Model

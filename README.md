@@ -1,4 +1,6 @@
 # Sales_predictions_2023
+
+![Project Image](https://github.com/souadkhailia/sales_predictions_2023/blob/main/Supermarket-data-1200x628.jpg?raw=true)
 # Overview
 ### The goal of this code is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
 # Data Understanding
